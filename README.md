@@ -27,4 +27,5 @@ Associate Professor, Department of Immunology, School of Medical Sciences, Unive
 - [Coding_practice_2024-2025](https://github.com/kahkengwong/Coding_practice_2024-2025): handwritten Python, LeetCode and a single-layer attention-only transformer in numpy.
 
 **Languages:** R, Python, and Bash.<br>
-**Environments:** Linux (Fedora and WSL2), and containers with Podman.
+**Environments:** Linux (Fedora 44 and WSL2).<br>
+**Reproducibility:** renv lockfiles, Podman containers, and Zenodo archives.
