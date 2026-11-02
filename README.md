@@ -1,14 +1,14 @@
 ### Kah Keng Wong
 
-Associate Professor, Department of Immunology, School of Medical Sciences, Universiti Sains Malaysia (USM). DPhil, University of Oxford.
+Associate Professor, Department of Immunology, School of Medical Sciences, Universiti Sains Malaysia (USM).
 
-- I am an immunologist by training. I now develop explainable statistical and machine learning methods for single-cell and bulk transcriptomics.
-- My current work is CEP-IP with CMRF, applied to microglia in the Seattle Alzheimer's Disease Brain Cell Atlas (SEA-AD).
-- Listed in the Stanford/Elsevier Top 2% Scientists (2022 to 2026).
+- I am an immunologist by training (DPhil, Oxon), with a focus on transcriptomics.
+- I have developed explainable statistical and machine learning methods for single-cell and bulk transcriptomics.
+- My current work is the CEP-IP with CMRF framework (R package [cepip](https://CRAN.R-project.org/package=cepip)). I applied it to microglia in the Seattle Alzheimer's Disease Brain Cell Atlas (SEA-AD) snRNA-seq data and found a monotonic module linked to cognition in this dataset.
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7359--6202-A6CE39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0000-0001-7359-6202)
 [![CRAN](https://img.shields.io/cran/v/cepip?label=CRAN%20cepip&logo=r&logoColor=white&color=276DC3&style=flat-square)](https://CRAN.R-project.org/package=cepip)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-kahkengwong-FFD21E?logo=huggingface&logoColor=black&style=flat-square)](https://huggingface.co/kahkengwong)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7359--6202-A6CE39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0000-0001-7359-6202)
 [![Email](https://img.shields.io/badge/Email-kahkeng%40usm.my-0072C6?style=flat-square)](mailto:kahkeng@usm.my)
 
 #### Selected work
@@ -26,4 +26,4 @@ Associate Professor, Department of Immunology, School of Medical Sciences, Unive
 - [Maths_practice_2024-2026](https://github.com/kahkengwong/Maths_practice_2024-2026): handwritten algebra, calculus and statistics practice.
 - [Coding_practice_2024-2025](https://github.com/kahkengwong/Coding_practice_2024-2025): handwritten Python, LeetCode and a single-layer attention-only transformer in numpy.
 
-**Languages:** R and Python.
+**Languages:** R, Python, and Bash.
