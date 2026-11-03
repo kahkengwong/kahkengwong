@@ -2,7 +2,7 @@
 
 Associate Professor, Department of Immunology, School of Medical Sciences, Universiti Sains Malaysia (USM).
 
-- I am an immunologist by training (DPhil, Oxon), with a focus on transcriptomics.
+- I am an immunologist by training (DPhil, Oxon) focusing on bioinformatics and transcriptomics.
 - I have developed explainable statistical and machine learning methods for single-cell and bulk transcriptomics.
 - My current work is the CEP-IP with CMRF framework (R package [cepip](https://CRAN.R-project.org/package=cepip)). I applied it to microglia in the Seattle Alzheimer's Disease Brain Cell Atlas (SEA-AD) snRNA-seq data and found a monotonic module linked to cognition in this dataset.
 
